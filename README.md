@@ -8,7 +8,7 @@ COVID-19 Tracker is being sponsored by the following tool; please help to suppor
  <img src="https://images.gitads.io/project_corona_tracker" alt="GitAds"/> 
 </a>
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://elegant-lewin-bf07b8.netlify.app/)
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
